@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Thelma 👋
 
-<!--
-**xyionelle/xyionelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a student passionate about technology and problem solving. I am currently learning Linux, Git, and software development fundamentals.
 
-Here are some ideas to get you started:
+## What I'm Learning
+- Linux command line
+- Git and GitHub
+- Python programming
+- Software development workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I've Used
+- VS Code
+- Git
+- GitHub
+- Linux Terminal
+- Python
+
+## Fun Fact
+I am studying Food Processing Engineering but also working towards becoming a software programmer and engineer 🚀## Hi there 👋
+
+
